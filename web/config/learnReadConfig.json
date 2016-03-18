@@ -1,0 +1,26 @@
+{
+  "cars":{
+    "data" : ["ferrari","golf","mercedes","jeep","audi"]
+  },
+  "fishes":{
+    "data" : ["wahl","shark","merluza","piranha"]
+  },
+  "teams":{
+    "data" : ["sporting","oviedo","madrid","barcelona","bayern","atletico","eintracht"]
+  },
+  "animals":{
+    "data" : ["lyon","tiger","cat","dog","cow","donkey","leopard"]
+  },
+  "painters":{
+    "data" : ["picasso","miro","dali","goya","boticelli"]
+  },
+  "musicians":{
+    "data" : ["dylan","sabina","calamaro","nirvana","camaron"]
+  },
+  "family":{
+    "data" : ["johanna","dani","paulo"]
+  },
+  "places":{
+    "data" : ["buiza","oviedo","arzdorf","frankfurt","paris","londres","new york"]
+  }
+}
